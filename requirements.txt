@@ -33,6 +33,7 @@ packaging==24.2
 pandas==2.2.3
 pathlib==1.0.1
 prov==2.0.1
+psycopg2-binary==2.9.10
 puremagic==1.28
 pycparser==2.22
 pydot==3.0.4
